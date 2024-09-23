@@ -1,0 +1,1 @@
+SELECT date_format('2024-9-13','%d'),date_format('2024-9-13','%M'),date_format('2024-09-13','%Y')

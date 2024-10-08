@@ -1,0 +1,4 @@
+-- composite primary key
+-- this primary key is made from the combination of more that one column from a table
+-- for example, you can look in the order items the order_id and product_id is a composite primary key
+-- this is similar to the candidate key
